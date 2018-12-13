@@ -5,7 +5,7 @@ export default () => (
   // <Fragment>
   <Layout>
     <div>
-      <p>This is the about page</p>
+      <p>This is the about content</p>
     </div>
   </Layout>
   // </Fragment>
